@@ -1,0 +1,74 @@
+[
+  {
+    "step_index": 0,
+    "description": "Navigate to the 'Backlog' workflow section.",
+    "screenshot": "00_navigate.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 11,
+    "timestamp": "2025-11-25T04:02:39.730676",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "navigate"
+  },
+  {
+    "step_index": 1,
+    "description": "Click the 'New Story' button to start creating a new story.",
+    "screenshot": "01_click.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 14,
+    "timestamp": "2025-11-25T04:02:43.079119",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "click"
+  },
+  {
+    "step_index": 2,
+    "description": "Fill the title field with 'Add logging to payment service'.",
+    "screenshot": "02_fill.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 14,
+    "timestamp": "2025-11-25T04:02:45.814246",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "fill"
+  },
+  {
+    "step_index": 3,
+    "description": "Fill the description field with 'We want structured logging around payment failures so that support can quickly diagnose issues.'.",
+    "screenshot": "03_fill.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 14,
+    "timestamp": "2025-11-25T04:02:48.446982",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "fill"
+  },
+  {
+    "step_index": 4,
+    "description": "Click the 'Create' button to save the new story.",
+    "screenshot": "04_click.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 11,
+    "timestamp": "2025-11-25T04:02:51.666700",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "click"
+  },
+  {
+    "step_index": 5,
+    "description": "Wait for the new story to appear in the 'Backlog' workflow.",
+    "screenshot": "05_wait.png",
+    "url": "https://app.shortcut.com/bharat-ai/backlog?query=Implement+AI-powered+search",
+    "modal_present": true,
+    "high_z_modals": 11,
+    "timestamp": "2025-11-25T04:02:53.852778",
+    "task_text": "In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.",
+    "app": "shortcut",
+    "tag": "wait"
+  }
+]

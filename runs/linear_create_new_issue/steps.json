@@ -1,0 +1,74 @@
+[
+  {
+    "step_index": 0,
+    "description": "Navigate to the current team's issues section.",
+    "screenshot": "00_navigate.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": false,
+    "high_z_modals": 2,
+    "timestamp": "2025-11-25T04:00:43.873780",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "navigate"
+  },
+  {
+    "step_index": 1,
+    "description": "Click the 'New Issue' button to start creating a new issue.",
+    "screenshot": "01_click.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:00:50.309858",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 2,
+    "description": "Fill the issue title with 'Fix login error on dashboard'.",
+    "screenshot": "02_fill.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:00:53.149048",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 3,
+    "description": "Fill the issue summary with 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "screenshot": "03_fill.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:00:56.097190",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 4,
+    "description": "Click the 'Create' button to save the new issue.",
+    "screenshot": "04_click.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:00:59.203862",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 5,
+    "description": "Wait for the new issue to appear in the issues list.",
+    "screenshot": "05_wait.png",
+    "url": "https://linear.app/nextitjobs/team/NEX/active",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:02.084766",
+    "task_text": "In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.",
+    "app": "linear",
+    "tag": "wait"
+  }
+]

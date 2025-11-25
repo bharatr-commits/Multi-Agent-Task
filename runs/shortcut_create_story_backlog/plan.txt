@@ -1,0 +1,9 @@
+Task: In Shortcut, create a new story in the 'Backlog' workflow with the title 'Add logging to payment service', and add a description that explains we want structured logging around payment failures so that support can quickly diagnose issues.
+
+Planned Steps
+0. [navigate] Navigate to the 'Backlog' workflow section. (hint=text~=Backlog)
+1. [click] Click the 'New Story' button to start creating a new story. (hint=text~=New Story|Create Story)
+2. [fill] Fill the title field with 'Add logging to payment service'. (hint=text~=Title)
+3. [fill] Fill the description field with 'We want structured logging around payment failures so that support can quickly diagnose issues.'. (hint=text~=Description)
+4. [click] Click the 'Create' button to save the new story. (hint=text~=Create|Save|Done)
+5. [wait] Wait for the new story to appear in the 'Backlog' workflow. (hint=None)

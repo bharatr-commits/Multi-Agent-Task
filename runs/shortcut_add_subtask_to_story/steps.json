@@ -1,0 +1,74 @@
+[
+  {
+    "step_index": 0,
+    "description": "Navigate to the Stories section in Shortcut.",
+    "screenshot": "00_navigate.png",
+    "url": "https://app.shortcut.com/bharat-ai/stories/space/10",
+    "modal_present": true,
+    "high_z_modals": 11,
+    "timestamp": "2025-11-25T04:03:28.857947",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "navigate"
+  },
+  {
+    "step_index": 1,
+    "description": "Click the story titled 'Add logging to payment service' to open its details.",
+    "screenshot": "01_click.png",
+    "url": "https://app.shortcut.com/bharat-ai/story/40/add-logging-to-payment-service",
+    "modal_present": true,
+    "high_z_modals": 18,
+    "timestamp": "2025-11-25T04:03:32.507143",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "click"
+  },
+  {
+    "step_index": 2,
+    "description": "Click the 'Add sub-task' button to open the sub-task creation field.",
+    "screenshot": "02_click.png",
+    "url": "https://app.shortcut.com/bharat-ai/story/40/add-logging-to-payment-service",
+    "modal_present": true,
+    "high_z_modals": 18,
+    "timestamp": "2025-11-25T04:03:36.415331",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "click"
+  },
+  {
+    "step_index": 3,
+    "description": "Fill the sub-task title with 'Sub task - 1'.",
+    "screenshot": "03_fill.png",
+    "url": "https://app.shortcut.com/bharat-ai/story/40/add-logging-to-payment-service",
+    "modal_present": true,
+    "high_z_modals": 18,
+    "timestamp": "2025-11-25T04:03:39.485136",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "fill"
+  },
+  {
+    "step_index": 4,
+    "description": "Click the 'Create' button to add the new sub-task.",
+    "screenshot": "04_click.png",
+    "url": "https://app.shortcut.com/bharat-ai/story/40/add-logging-to-payment-service",
+    "modal_present": true,
+    "high_z_modals": 18,
+    "timestamp": "2025-11-25T04:03:43.726605",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "click"
+  },
+  {
+    "step_index": 5,
+    "description": "Wait for the new sub-task 'Sub task - 1' to appear under the story.",
+    "screenshot": "05_wait.png",
+    "url": "https://app.shortcut.com/bharat-ai/story/40/add-logging-to-payment-service",
+    "modal_present": true,
+    "high_z_modals": 18,
+    "timestamp": "2025-11-25T04:03:46.334477",
+    "task_text": "In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.",
+    "app": "shortcut",
+    "tag": "wait"
+  }
+]

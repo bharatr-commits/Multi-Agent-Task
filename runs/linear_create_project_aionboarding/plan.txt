@@ -1,0 +1,10 @@
+Task: In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.
+
+Planned Steps
+0. [navigate] Navigate to the Projects section in Linear. (hint=text~=Projects)
+1. [click] Click the 'New Project' button to start creating a new project. (hint=text~=New Project|Create Project)
+2. [fill] Fill the project name field with 'AI onboarding'. (hint=text~=Project Name|Title)
+3. [fill] Fill the summary field with 'Improve first-time user activation'. (hint=text~=Summary)
+4. [fill] Fill the description field with 'We are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.'. (hint=text~=Description)
+5. [click] Click the 'Create' button to save the new project. (hint=text~=Create|Save|Done)
+6. [wait] Wait for the new project 'AI onboarding' to appear in the project list. (hint=text~=AI onboarding)

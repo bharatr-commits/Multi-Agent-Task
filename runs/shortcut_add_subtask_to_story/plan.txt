@@ -1,0 +1,9 @@
+Task: In Shortcut, open the story titled 'Add logging to payment service' and add a new sub-task called 'Sub task - 1' to it.
+
+Planned Steps
+0. [navigate] Navigate to the Stories section in Shortcut. (hint=text~=Stories)
+1. [click] Click the story titled 'Add logging to payment service' to open its details. (hint=text~=Add logging to payment service)
+2. [click] Click the 'Add sub-task' button to open the sub-task creation field. (hint=text~=Add sub-task)
+3. [fill] Fill the sub-task title with 'Sub task - 1'. (hint=None)
+4. [click] Click the 'Create' button to add the new sub-task. (hint=text~=Create|Add)
+5. [wait] Wait for the new sub-task 'Sub task - 1' to appear under the story. (hint=None)

@@ -1,0 +1,74 @@
+[
+  {
+    "step_index": 0,
+    "description": "Navigate to the Projects section.",
+    "screenshot": "00_navigate.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:36.367902",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "navigate"
+  },
+  {
+    "step_index": 1,
+    "description": "Click the project named 'AI onboarding' to open its details.",
+    "screenshot": "01_click.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:39.999018",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 2,
+    "description": "Click the 'Add update' button to start a new project update.",
+    "screenshot": "02_click.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:43.556465",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 3,
+    "description": "Fill the update text area with 'This is my first update'.",
+    "screenshot": "03_fill.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:46.181474",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 4,
+    "description": "Click the 'Save' button to save the new project update.",
+    "screenshot": "04_click.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:51.267654",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 5,
+    "description": "Wait for the new project update to appear in the project updates list.",
+    "screenshot": "05_wait.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:01:54.146083",
+    "task_text": "In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.",
+    "app": "linear",
+    "tag": "wait"
+  }
+]

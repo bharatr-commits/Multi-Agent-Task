@@ -1,0 +1,86 @@
+[
+  {
+    "step_index": 0,
+    "description": "Navigate to the Projects section in Linear.",
+    "screenshot": "00_navigate.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 2,
+    "timestamp": "2025-11-25T03:59:42.194325",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "navigate"
+  },
+  {
+    "step_index": 1,
+    "description": "Click the 'New Project' button to start creating a new project.",
+    "screenshot": "01_click.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T03:59:45.928946",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 2,
+    "description": "Fill the project name field with 'AI onboarding'.",
+    "screenshot": "02_fill.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T03:59:48.516413",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 3,
+    "description": "Fill the summary field with 'Improve first-time user activation'.",
+    "screenshot": "03_fill.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T03:59:51.221135",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 4,
+    "description": "Fill the description field with 'We are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.'.",
+    "screenshot": "04_fill.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": true,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T03:59:54.046490",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "fill"
+  },
+  {
+    "step_index": 5,
+    "description": "Click the 'Create' button to save the new project.",
+    "screenshot": "05_click.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T03:59:57.332560",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "click"
+  },
+  {
+    "step_index": 6,
+    "description": "Wait for the new project 'AI onboarding' to appear in the project list.",
+    "screenshot": "06_wait.png",
+    "url": "https://linear.app/nextitjobs/projects/all",
+    "modal_present": false,
+    "high_z_modals": 1,
+    "timestamp": "2025-11-25T04:00:00.229307",
+    "task_text": "In Linear, create a new project called 'AI onboarding' with a summary 'Improve first-time user activation' and a description that explains we are redesigning the onboarding flow to make it easier for new users to get started and complete their first key action within 10 minutes.",
+    "app": "linear",
+    "tag": "wait"
+  }
+]

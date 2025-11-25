@@ -1,0 +1,9 @@
+Task: In Linear, create a new issue in the current team with the title 'Fix login error on dashboard', a short summary 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'.
+
+Planned Steps
+0. [navigate] Navigate to the current team's issues section. (hint=text~=Issues)
+1. [click] Click the 'New Issue' button to start creating a new issue. (hint=text~=New Issue|Create Issue)
+2. [fill] Fill the issue title with 'Fix login error on dashboard'. (hint=input[name=title])
+3. [fill] Fill the issue summary with 'Users see a 500 error after login and this only happens for SSO users on Chrome and includes reproduction steps and an acceptance criteria checklist'. (hint=textarea[name=summary])
+4. [click] Click the 'Create' button to save the new issue. (hint=button[type=submit])
+5. [wait] Wait for the new issue to appear in the issues list. (hint=None)

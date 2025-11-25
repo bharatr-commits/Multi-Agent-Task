@@ -1,0 +1,9 @@
+Task: In Linear, open the project called 'AI onboarding' and add a new project update with the text 'This is my first update'.
+
+Planned Steps
+0. [navigate] Navigate to the Projects section. (hint=text~=Projects)
+1. [click] Click the project named 'AI onboarding' to open its details. (hint=text~=AI onboarding)
+2. [click] Click the 'Add update' button to start a new project update. (hint=text~=Add update|New update)
+3. [fill] Fill the update text area with 'This is my first update'. (hint=None)
+4. [click] Click the 'Save' button to save the new project update. (hint=text~=Save|Done)
+5. [wait] Wait for the new project update to appear in the project updates list. (hint=None)
