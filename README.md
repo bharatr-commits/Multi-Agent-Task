@@ -1,6 +1,5 @@
 # Agent B – UI State Capture System for Softlight Take-Home
 
-This project implements **Agent B** for Softlight’s multi-agent assignment.
 
 Agent B takes a **natural language task** like:
 
