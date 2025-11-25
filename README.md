@@ -53,10 +53,6 @@ Responsibilities:
      - `description` – human-readable description.
      - `action_type` – one of: `navigate | click | fill | wait | explore`.
      - `selector_hint` – optional hint (e.g. `text~=New project|Create project`).
-   - The prompt encodes heuristics:
-     - Use quoted values exactly (e.g. `"AI onboarding"`, `"In Progress"`).
-     - Decompose updates into: open details → click field → change value → save.
-     - For “create” flows, plan: navigate → New/Create → fill name → fill description → save.
 
 2. **Browser Control**
    - Uses **Playwright** to launch Chromium (`headless=False` for demo).
