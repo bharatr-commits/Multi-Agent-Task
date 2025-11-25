@@ -1,4 +1,4 @@
-# Agent B – UI State Capture System for Softlight Take-Home
+# Agent B – UI State Capture System
 
 
 Agent B takes a **natural language task** like:
